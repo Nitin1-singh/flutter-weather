@@ -37,6 +37,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#layout">Layout</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -69,6 +70,10 @@ My Portfolio Current Feature:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+### Layout
+* Refresh Page ![img](https://github.com/Nitin1-singh/flutter-weather/assets/148739561/bf4f5137-fc72-4447-8217-caa27355b12b)
+* Home Layout ![img-2](https://github.com/Nitin1-singh/flutter-weather/assets/148739561/438b8d09-c650-4f09-b954-c2807efd70fc)
 
 
 ### Built With
