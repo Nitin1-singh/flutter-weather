@@ -72,8 +72,9 @@ My Portfolio Current Feature:
 
 
 ### Layout
-* Refresh Page ![img](https://github.com/Nitin1-singh/flutter-weather/assets/148739561/bf4f5137-fc72-4447-8217-caa27355b12b)
-* Home Layout ![img-2](https://github.com/Nitin1-singh/flutter-weather/assets/148739561/438b8d09-c650-4f09-b954-c2807efd70fc)
+* <p>Refresh page</p><img src="https://github.com/Nitin1-singh/flutter-weather/assets/148739561/bf4f5137-fc72-4447-8217-caa27355b12b" height="400" />
+
+* <p>Home Layout</p><img src="https://github.com/Nitin1-singh/flutter-weather/assets/148739561/438b8d09-c650-4f09-b954-c2807efd70fc" height="400" />
 
 
 ### Built With
