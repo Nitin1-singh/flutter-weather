@@ -1,9 +1,8 @@
-# weather_app
+## weather_app
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
-## Portfolio V1
 <!-- PROJECT Summary -->
 <br />
 
